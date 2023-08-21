@@ -1,6 +1,6 @@
 {
   "name": "simp-simplib",
-  "version": "4.11.0",
+  "version": "4.11.0.1",
   "author": "SIMP Team",
   "summary": "A collection of common SIMP functions, facts, and types",
   "license": "Apache-2.0",
@@ -18,7 +18,7 @@
   "dependencies": [
     {
       "name": "puppetlabs/stdlib",
-      "version_requirement": ">= 8.0.0 < 9.0.0"
+      "version_requirement": ">= 8.0.0 < 10.0.0"
     },
     {
       "name": "simp/simpkv",
